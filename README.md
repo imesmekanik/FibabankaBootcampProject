@@ -7,8 +7,8 @@ Java Spring Boot
 IntelliJ IDEA
 Gradle
   Dependencies:
-    - Swagger for tests
-    - Spring Boot Web
+    - Swagger for tests<br />
+    - Spring Boot Web<br />
     - Spring Boot Jpa
     - Lombok for practical annotations
     - Mapstruct for mapping
