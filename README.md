@@ -1,24 +1,24 @@
 # FibaBankaBootcampProject!
 
-Technologies used in this project:
+Technologies used in this project:<br />
 
-JDK 17
-Java Spring Boot
-IntelliJ IDEA
-Gradle
-  Dependencies:
+JDK 17<br />
+Java Spring Boot<br />
+IntelliJ IDEA<br />
+Gradle<br />
+  Dependencies:<br />
     - Swagger for tests<br />
     - Spring Boot Web<br />
-    - Spring Boot Jpa
-    - Lombok for practical annotations
-    - Mapstruct for mapping
-    - Postgresql
-    - Spring Boot Validation for basic validations
-    - Spring Open Feign to communicate among microservices
+    - Spring Boot Jpa<br />
+    - Lombok for practical annotations<br />
+    - Mapstruct for mapping<br />
+    - Postgresql<br />
+    - Spring Boot Validation for basic validations<br />
+    - Spring Open Feign to communicate among microservices<br />
     
-For any questions, feel free to contact: miteorhan@gmail.com    
+For any questions, feel free to contact: miteorhan@gmail.com   <br /> 
 
-Microservices and Ports:
+Microservices and Ports:<br />
   - inventory: 8081
   - shopping: 8082
   - commerce: 8080
